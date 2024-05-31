@@ -27,7 +27,7 @@ fun LightComponent(light: Light, context: Context) {
             selectedElement = light.color,
             getStringValue = { it.getTranslation(context) },
             onValueChange = { light.color = it },
-            label = "Выберите интенсивность"
+            label = "Выберите цвет"
         )
     }
 }
