@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SmartApp</string>
+    <string name="device_type_none">None</string>
+    <string name="device_type_light">Light</string>
+    <string name="device_type_coffee_machine">Coffee Machine</string>
+    <string name="device_type_alarm">Alarm</string>
+    <string name="device_type_alarm_clock">Alarm Clock</string>
+    <string name="device_type_air_conditioner">Air Conditioner</string>
+    <string name="device_type_kettle">Kettle</string>
+    <string name="device_type_socket">Socket</string>
+    <string name="device_type_tv">TV</string>
+    <string name="perfomance_type_none">None</string>
+    <string name="perfomance_type_minimum">Minimum</string>
+    <string name="perfomance_type_average">Average</string>
+    <string name="perfomance_type_maximum">Maximum</string>
+    <string name="color_type_none">None</string>
+    <string name="color_type_red">Red</string>
+    <string name="color_type_green">Green</string>
+    <string name="color_type_blue">Blue</string>
+    <string name="color_type_purple">Purple</string>
+    <string name="color_type_orange">Orange</string>
+    <string name="color_type_yellow">Yellow</string>
+    <string name="room_type_none">None</string>
+    <string name="room_type_living_room">Living Room</string>
+    <string name="room_type_bedroom">Bedroom</string>
+    <string name="room_type_kitchen">Kitchen</string>
+    <string name="room_type_toilet">Toilet</string>
+    <string name="room_type_hall">Hall</string>
+
+</resources>
+

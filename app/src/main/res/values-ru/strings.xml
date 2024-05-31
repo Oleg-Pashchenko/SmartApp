@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Умный дом</string>
+    <string name="device_type_none">Пусто</string>
+    <string name="device_type_light">Свет</string>
+    <string name="device_type_coffee_machine">Кофемашина</string>
+    <string name="device_type_alarm">Сигнализация</string>
+    <string name="device_type_alarm_clock">Будильник</string>
+    <string name="device_type_air_conditioner">Кондиционер</string>
+    <string name="device_type_kettle">Чайник</string>
+    <string name="device_type_socket">Розетка</string>
+    <string name="device_type_tv">Телевизор</string>
+    <string name="perfomance_type_none">Нет</string>
+    <string name="perfomance_type_minimum">Минимум</string>
+    <string name="perfomance_type_average">Средний</string>
+    <string name="perfomance_type_maximum">Максимум</string>
+    <string name="color_type_none">Нет</string>
+    <string name="color_type_red">Красный</string>
+    <string name="color_type_green">Зеленый</string>
+    <string name="color_type_blue">Синий</string>
+    <string name="color_type_purple">Фиолетовый</string>
+    <string name="color_type_orange">Оранжевый</string>
+    <string name="color_type_yellow">Желтый</string>
+    <string name="room_type_none">Нет</string>
+    <string name="room_type_living_room">Зал</string>
+    <string name="room_type_bedroom">Спальня</string>
+    <string name="room_type_kitchen">Кухня</string>
+    <string name="room_type_toilet">Туалет</string>
+    <string name="room_type_hall">Коридор</string>
+</resources>
